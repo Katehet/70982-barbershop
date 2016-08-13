@@ -1,6 +1,7 @@
-# Учебный проект «Барбершоп»
+# Личный проект «Техномарт»
 
 * Студент: [Sergey Vikhrov](https://up.htmlacademy.ru/htmlcss/14/user/70982).
+* Наставник: [Ольга Одноколова] (https://htmlacademy.ru/profile/id38936).
 
 ---
 
@@ -17,13 +18,13 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/70982-barbershop) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/70982-technomart) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391800/6077bf90-bdfb-11e5-88e1-7589f1d4bcc7.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391960/7a6d69bc-bdfc-11e5-907b-2d492ab975bc.jpg">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391804/6d683b76-bdfb-11e5-87fa-35a0aa855e1c.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391959/7a69a0de-bdfc-11e5-9d47-d9e7197b3a20.jpg">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
