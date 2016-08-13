@@ -38,7 +38,7 @@
       </div>
     </header>
 		<div class="login-form"> <!--Всплывающее окно входа-->
-      <h2 class="">Личный кабинет</h2>
+      <h2 class="private-page">Личный кабинет</h2>
       Введите пожалуйста свой логин и пароль
       <form>
         <input type="text" name="login" placeholder="Логин">
@@ -61,19 +61,27 @@
       </div>
       <section class="filter">
         <form>
-          <h2 class="filter-title">Производители</h2>
-          <label><input type="checkbox" checked> Baxter of California</label>
-          <label><input type="checkbox"> Mr Natty</label>
-          <label><input type="checkbox" checked> Suavecito</label>
-          <label><input type="checkbox"> Malin+Goetz</label>
-          <label><input type="checkbox"> Murray's</label>
-          <label><input type="checkbox" checked> American Crew</label>
-          <h2 class="filter-title">Группы товаров</h2>
-          <label><input type="radio" name="radio" value="shavig"> Бритвенные принадлежности</label>
-          <label><input type="radio" name="radio" value="care" checked> Средства для ухода</label>
-          <label><input type="radio" name="radio" value="accessory"> Аксессуары</label>
+					<fieldset>
+					<legend>Производители</legend>
+					<ul>
+						<li><label><input type="checkbox" checked> Baxter of California</label></li>
+						<li><label><input type="checkbox"> Mr Natty</label></li>
+						<li><label><input type="checkbox" checked> Suavecito</label></li>
+						<li><label><input type="checkbox"> Malin+Goetz</label></li>
+						<li><label><input type="checkbox"> Murray's</label></li>
+						<li><label><input type="checkbox" checked> American Crew</label></li>
+						</ul>
+					</fieldset>
+					<fieldset>
+					<legend>Группы товаров</legend>
+						<ul>
+						<li><label><input type="radio" name="radio" value="shavig"> Бритвенные принадлежности</label></li>
+						<li><label><input type="radio" name="radio" value="care" checked> Средства для ухода</label></li>
+						<li><label><input type="radio" name="radio" value="accessory"> Аксессуары</label></li>
+						</ul>
           <button class="btn" type="submit">Показать</button>
-      	</form>
+					</fieldset>
+				</form>
       </section>
       <section class="cards">
         <article class="item-card">
