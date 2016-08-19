@@ -9,7 +9,7 @@ body {
 	font-size: 30px;
 	line-height: 42px;
 	color: #ffffff;
-	background-color: #000000;/*Временный*/
+	background-color: #000000;/*Временный фон для заголовков features*/
 }
 .index-content-title {
 	font-size: 30px;
@@ -86,4 +86,19 @@ body {
 .footer-copyright {
 	float: right;
 	width: 180px;
+}
+/*Стили для страницы catalog.html*/
+.cards {
+	font-size: 0px; /*Обнуление отступов между item-card*/
+}
+.item-card {
+	display: inline-block;
+	font-size: 14px;
+	line-height: 24px;
+	color: #000000;
+	font-weight: bold;
+	font-family:"PT Sans Narrow", sans-serif;
+}
+.item-name {
+	width:;
 }
